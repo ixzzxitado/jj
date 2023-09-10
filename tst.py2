@@ -1,0 +1,6 @@
+#!bin/python3
+from time import sleep
+
+resposta = str(input("Qual o Seu Nome?: "))
+
+print("seu nome é: {}".format(resposta))

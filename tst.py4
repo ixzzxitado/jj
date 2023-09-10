@@ -1,0 +1,3 @@
+#!bin/python
+print(persuxf.rstrip(), '2.2\n\n')
+user = (open('.usuario', 'r')).readline()
